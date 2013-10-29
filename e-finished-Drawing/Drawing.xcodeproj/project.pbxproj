@@ -1,0 +1,287 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6210FA2715398ABA00B651FA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6210FA2615398ABA00B651FA /* UIKit.framework */; };
+		6210FA2915398ABA00B651FA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6210FA2815398ABA00B651FA /* Foundation.framework */; };
+		6210FA2B15398ABA00B651FA /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6210FA2A15398ABA00B651FA /* CoreGraphics.framework */; };
+		6210FA3115398ABA00B651FA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6210FA2F15398ABA00B651FA /* InfoPlist.strings */; };
+		6210FA3315398ABA00B651FA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6210FA3215398ABA00B651FA /* main.m */; };
+		6210FA3715398ABA00B651FA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6210FA3615398ABA00B651FA /* AppDelegate.m */; };
+		6210FA3A15398ABA00B651FA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6210FA3915398ABA00B651FA /* ViewController.m */; };
+		6210FA3D15398ABA00B651FA /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6210FA3B15398ABA00B651FA /* ViewController.xib */; };
+		6210FA4F15399FE500B651FA /* BrushUIButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 6210FA4E15399FE500B651FA /* BrushUIButton.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		6210FA2215398ABA00B651FA /* Drawing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Drawing.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6210FA2615398ABA00B651FA /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		6210FA2815398ABA00B651FA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		6210FA2A15398ABA00B651FA /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		6210FA2E15398ABA00B651FA /* Drawing-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Drawing-Info.plist"; sourceTree = "<group>"; };
+		6210FA3015398ABA00B651FA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		6210FA3215398ABA00B651FA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6210FA3415398ABA00B651FA /* Drawing-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Drawing-Prefix.pch"; sourceTree = "<group>"; };
+		6210FA3515398ABA00B651FA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		6210FA3615398ABA00B651FA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		6210FA3815398ABA00B651FA /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		6210FA3915398ABA00B651FA /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		6210FA3C15398ABA00B651FA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		6210FA4D15399FE500B651FA /* BrushUIButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BrushUIButton.h; sourceTree = "<group>"; };
+		6210FA4E15399FE500B651FA /* BrushUIButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BrushUIButton.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6210FA1F15398ABA00B651FA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6210FA2715398ABA00B651FA /* UIKit.framework in Frameworks */,
+				6210FA2915398ABA00B651FA /* Foundation.framework in Frameworks */,
+				6210FA2B15398ABA00B651FA /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6210FA1715398ABA00B651FA = {
+			isa = PBXGroup;
+			children = (
+				6210FA2C15398ABA00B651FA /* Drawing */,
+				6210FA2515398ABA00B651FA /* Frameworks */,
+				6210FA2315398ABA00B651FA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6210FA2315398ABA00B651FA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6210FA2215398ABA00B651FA /* Drawing.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6210FA2515398ABA00B651FA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6210FA2615398ABA00B651FA /* UIKit.framework */,
+				6210FA2815398ABA00B651FA /* Foundation.framework */,
+				6210FA2A15398ABA00B651FA /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6210FA2C15398ABA00B651FA /* Drawing */ = {
+			isa = PBXGroup;
+			children = (
+				6210FA3515398ABA00B651FA /* AppDelegate.h */,
+				6210FA3615398ABA00B651FA /* AppDelegate.m */,
+				6210FA3815398ABA00B651FA /* ViewController.h */,
+				6210FA3915398ABA00B651FA /* ViewController.m */,
+				6210FA4D15399FE500B651FA /* BrushUIButton.h */,
+				6210FA4E15399FE500B651FA /* BrushUIButton.m */,
+				6210FA3B15398ABA00B651FA /* ViewController.xib */,
+				6210FA2D15398ABA00B651FA /* Supporting Files */,
+			);
+			path = Drawing;
+			sourceTree = "<group>";
+		};
+		6210FA2D15398ABA00B651FA /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6210FA2E15398ABA00B651FA /* Drawing-Info.plist */,
+				6210FA2F15398ABA00B651FA /* InfoPlist.strings */,
+				6210FA3215398ABA00B651FA /* main.m */,
+				6210FA3415398ABA00B651FA /* Drawing-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6210FA2115398ABA00B651FA /* Drawing */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6210FA4015398ABA00B651FA /* Build configuration list for PBXNativeTarget "Drawing" */;
+			buildPhases = (
+				6210FA1E15398ABA00B651FA /* Sources */,
+				6210FA1F15398ABA00B651FA /* Frameworks */,
+				6210FA2015398ABA00B651FA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Drawing;
+			productName = Drawing;
+			productReference = 6210FA2215398ABA00B651FA /* Drawing.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6210FA1915398ABA00B651FA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+				ORGANIZATIONNAME = Gutpela;
+			};
+			buildConfigurationList = 6210FA1C15398ABA00B651FA /* Build configuration list for PBXProject "Drawing" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 6210FA1715398ABA00B651FA;
+			productRefGroup = 6210FA2315398ABA00B651FA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6210FA2115398ABA00B651FA /* Drawing */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6210FA2015398ABA00B651FA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6210FA3115398ABA00B651FA /* InfoPlist.strings in Resources */,
+				6210FA3D15398ABA00B651FA /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6210FA1E15398ABA00B651FA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6210FA3315398ABA00B651FA /* main.m in Sources */,
+				6210FA3715398ABA00B651FA /* AppDelegate.m in Sources */,
+				6210FA3A15398ABA00B651FA /* ViewController.m in Sources */,
+				6210FA4F15399FE500B651FA /* BrushUIButton.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		6210FA2F15398ABA00B651FA /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6210FA3015398ABA00B651FA /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		6210FA3B15398ABA00B651FA /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6210FA3C15398ABA00B651FA /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6210FA3E15398ABA00B651FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		6210FA3F15398ABA00B651FA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6210FA4115398ABA00B651FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Drawing/Drawing-Prefix.pch";
+				INFOPLIST_FILE = "Drawing/Drawing-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		6210FA4215398ABA00B651FA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Drawing/Drawing-Prefix.pch";
+				INFOPLIST_FILE = "Drawing/Drawing-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6210FA1C15398ABA00B651FA /* Build configuration list for PBXProject "Drawing" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6210FA3E15398ABA00B651FA /* Debug */,
+				6210FA3F15398ABA00B651FA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6210FA4015398ABA00B651FA /* Build configuration list for PBXNativeTarget "Drawing" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6210FA4115398ABA00B651FA /* Debug */,
+				6210FA4215398ABA00B651FA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6210FA1915398ABA00B651FA /* Project object */;
+}

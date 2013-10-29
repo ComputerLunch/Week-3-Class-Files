@@ -1,0 +1,256 @@
+TTouchAndDrag
+v7
+r0
+t352471189.115085
+cCheck dependencies
+cProcessInfoPlistFile /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/Info.plist TouchAndDrag-Info.plist
+cCompileXIB /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/MainWindow.xib
+cCompileXIB /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/TouchAndDragViewController.xib
+cProcessPCH /var/folders/gt/317y_lvj0wz39x6vmdshz2xw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchAndDrag_Prefix-balibeygdgmfdfcexdtmbvfgbqwr/TouchAndDrag_Prefix.pch.gch TouchAndDrag_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/main.o /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/TouchAndDragAppDelegate.o /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/TouchAndDragViewController.o /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/TouchAndDrag normal i386
+cGenerateDSYMFile /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app.dSYM /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/TouchAndDrag
+cTouch /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D5E01C9000000000029B310
+t1298006473
+s2732816
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragAppDelegate.h
+c000000004F520D4500000000000001F5
+t1330777413
+s501
+i<UIKit/UIKit.h>
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragAppDelegate.m
+c000000004F520D450000000000000AA6
+t1330777413
+s2726
+i"TouchAndDragAppDelegate.h"
+i"TouchAndDragViewController.h"
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragViewController.h
+c000000004F520EC50000000000000071
+t1330777797
+s113
+i<UIKit/UIKit.h>
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragViewController.m
+c000000004F521113000000000000062B
+t1330778387
+s1579
+i"TouchAndDragViewController.h"
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/MainWindow.xib
+c000000004F520D450000000000004E65
+t1330777413
+s20069
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/TouchAndDragViewController.xib
+c000000004F520D450000000000001A59
+t1330777413
+s6745
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/TouchAndDrag_Prefix.pch
+c000000004F520D4500000000000000C1
+t1330777413
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app
+t1330778389
+s238
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app.dSYM
+t1330778388
+s102
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/Info.plist
+t1330777751
+s611
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/MainWindow.nib
+t1330777763
+s1133
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/PkgInfo
+t1330777751
+s8
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/TouchAndDrag
+t1330778388
+s18252
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/TouchAndDragViewController.nib
+t1330777763
+s795
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/TouchAndDrag.LinkFileList
+c000000004F520E970000000000000206
+t1330777751
+s518
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/TouchAndDragAppDelegate.o
+t1330777803
+s51276
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/TouchAndDragViewController.o
+t1330778388
+s45068
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/main.o
+t1330777770
+s6380
+
+N/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/main.m
+c000000004F520D450000000000000166
+t1330777413
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/gt/317y_lvj0wz39x6vmdshz2xw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchAndDrag_Prefix-balibeygdgmfdfcexdtmbvfgbqwr/TouchAndDrag_Prefix.pch.gch
+t1330777769
+s15453392
+
+NTouchAndDrag-Info.plist
+c000000004F5211AA0000000000000389
+t1330778538
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies352471188#352471188#0(0"0(0#1#0"4495258944#0"0#
+
+CCompileC build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/TouchAndDragAppDelegate.o /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352470602.441068
+e352470603.085627
+r1
+xCompileC
+xbuild/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/TouchAndDragAppDelegate.o
+x/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragAppDelegate.m352470602#352470603#0(0"0(0#0#99"/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragAppDelegate.m4497866384#2377"    cd /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-generated-files.hmap -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-own-target-headers.hmap -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-all-target-headers.hmap -iquote /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-project-headers.hmap -F/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/include -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/DerivedSources/i386 -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/DerivedSources -include /var/folders/gt/317y_lvj0wz39x6vmdshz2xw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchAndDrag_Prefix-balibeygdgmfdfcexdtmbvfgbqwr/TouchAndDrag_Prefix.pch -c /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragAppDelegate.m -o /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/TouchAndDragAppDelegate.o0#
+
+CCompileC build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/TouchAndDragViewController.o /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352471188.212082
+e352471188.493401
+r1
+xCompileC
+xbuild/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/TouchAndDragViewController.o
+x/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragViewController.m352471188#352471188#0(0"0(0#0#102"/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragViewController.m4495257232#2383"    cd /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-generated-files.hmap -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-own-target-headers.hmap -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-all-target-headers.hmap -iquote /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-project-headers.hmap -F/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/include -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/DerivedSources/i386 -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/DerivedSources -include /var/folders/gt/317y_lvj0wz39x6vmdshz2xw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchAndDrag_Prefix-balibeygdgmfdfcexdtmbvfgbqwr/TouchAndDrag_Prefix.pch -c /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/Classes/TouchAndDragViewController.m -o /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/TouchAndDragViewController.o0#
+
+CCompileC build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/main.o /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352470569.683841
+e352470570.167541
+r1
+xCompileC
+xbuild/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/main.o
+x/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/main.m352470569#352470570#0(0"0(0#0#72"/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/main.m4486848144#2331"    cd /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-generated-files.hmap -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-own-target-headers.hmap -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-all-target-headers.hmap -iquote /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-project-headers.hmap -F/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/include -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/DerivedSources/i386 -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/DerivedSources -include /var/folders/gt/317y_lvj0wz39x6vmdshz2xw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchAndDrag_Prefix-balibeygdgmfdfcexdtmbvfgbqwr/TouchAndDrag_Prefix.pch -c /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/main.m -o /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/MainWindow.xib
+s352470562.684095
+e352470563.328743
+r1
+xCompileXIB
+x/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib352470562#352470563#0(0"0(0#0#80"/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/MainWindow.xib4486848144#680"    cd /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/MainWindow.nib /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/MainWindow.xib --sdk /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/TouchAndDragViewController.xib
+s352470562.685445
+e352470563.263150
+r1
+xCompileXIB
+x/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/TouchAndDragViewController.xib
+lSLF07#2@41"CompileXIB TouchAndDragViewController.xib352470562#352470563#0(0"0(0#0#96"/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/TouchAndDragViewController.xib4486848144#712"    cd /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/TouchAndDragViewController.nib /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/TouchAndDragViewController.xib --sdk /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app.dSYM /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/TouchAndDrag
+s352471188.790898
+e352471189.035022
+r1
+xGenerateDSYMFile
+x/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app.dSYM
+x/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/TouchAndDrag
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/TouchAndDrag.app.dSYM build/Debug-iphonesimulator/TouchAndDrag.app/TouchAndDrag352471188#352471189#0(0"0(0#0#123"/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/TouchAndDrag4495257232#497"    cd /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/usr/bin/dsymutil /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/TouchAndDrag -o /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app.dSYM0#
+
+CLd /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/TouchAndDrag normal i386
+s352471188.493503
+e352471188.790797
+r1
+xLd
+x/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/TouchAndDrag
+xnormal
+xi386
+lSLF07#2@128"Link /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/TouchAndDrag352471188#352471188#0(0"0(0#0#0"4495257232#1084"    cd /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator -F/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator -filelist /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/Objects-normal/i386/TouchAndDrag.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/TouchAndDrag0#
+
+CProcessInfoPlistFile /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/Info.plist TouchAndDrag-Info.plist
+s352470551.238442
+e352470551.289166
+r1
+xProcessInfoPlistFile
+x/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/Info.plist
+xTouchAndDrag-Info.plist
+lSLF07#2@31"Process TouchAndDrag-Info.plist352470551#352470551#0(0"0(0#0#89"/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/TouchAndDrag-Info.plist17213992704#587"    cd /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TouchAndDrag-Info.plist -genpkginfo /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app/Info.plist0#
+
+CProcessPCH /var/folders/gt/317y_lvj0wz39x6vmdshz2xw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchAndDrag_Prefix-balibeygdgmfdfcexdtmbvfgbqwr/TouchAndDrag_Prefix.pch.gch TouchAndDrag_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s352470563.328875
+e352470569.683716
+r1
+xProcessPCH
+x/var/folders/gt/317y_lvj0wz39x6vmdshz2xw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchAndDrag_Prefix-balibeygdgmfdfcexdtmbvfgbqwr/TouchAndDrag_Prefix.pch.gch
+xTouchAndDrag_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile TouchAndDrag_Prefix.pch352470563#352470569#0(0"0(0#0#89"/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/TouchAndDrag_Prefix.pch4486848144#2191"    cd /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-generated-files.hmap -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-own-target-headers.hmap -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-all-target-headers.hmap -iquote /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/TouchAndDrag-project-headers.hmap -F/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/include -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/DerivedSources/i386 -I/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/TouchAndDrag.build/Debug-iphonesimulator/TouchAndDrag.build/DerivedSources -c /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/TouchAndDrag_Prefix.pch -o /var/folders/gt/317y_lvj0wz39x6vmdshz2xw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchAndDrag_Prefix-balibeygdgmfdfcexdtmbvfgbqwr/TouchAndDrag_Prefix.pch.gch0#
+
+CTouch /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app
+s352471189.035109
+e352471189.115036
+r1
+xTouch
+x/Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app
+lSLF07#2@116"Touch /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app352471189#352471189#0(0"0(0#0#0"4495257232#349"    cd /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/andrewgarrahan/Desktop/SVA_2012_SPRING/WEEK_6/TouchAndDrag/build/Debug-iphonesimulator/TouchAndDrag.app0#
+

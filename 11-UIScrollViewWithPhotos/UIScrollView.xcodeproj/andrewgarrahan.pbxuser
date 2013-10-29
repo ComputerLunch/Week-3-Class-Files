@@ -1,0 +1,113 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* UIScrollView */ = {
+		activeExec = 0;
+		executables = (
+			62BC36C815025CA3009018A0 /* UIScrollView */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* UIScrollViewViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1140, 631}}";
+			sepNavSelRange = "{108, 0}";
+			sepNavVisRange = "{0, 903}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 62BC36C815025CA3009018A0 /* UIScrollView */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* UIScrollView */;
+		codeSenseManager = 62BC36D315025CC3009018A0 /* Code sense */;
+		executables = (
+			62BC36C815025CA3009018A0 /* UIScrollView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					643,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 352476323;
+			PBXWorkspaceStateSaveDate = 352476323;
+		};
+		perUserProjectItems = {
+			62BC36D615025CFE009018A0 /* PBXBookmark */ = 62BC36D615025CFE009018A0 /* PBXBookmark */;
+			62BC36D715025CFE009018A0 /* PBXTextBookmark */ = 62BC36D715025CFE009018A0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 62BC36D215025CC3009018A0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	62BC36C815025CA3009018A0 /* UIScrollView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = UIScrollView;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	62BC36D215025CC3009018A0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	62BC36D315025CC3009018A0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	62BC36D615025CFE009018A0 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* UIScrollViewViewController.m */;
+	};
+	62BC36D715025CFE009018A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* UIScrollViewViewController.m */;
+		name = "UIScrollViewViewController.m: 8";
+		rLen = 0;
+		rLoc = 108;
+		rType = 0;
+		vrLen = 903;
+		vrLoc = 0;
+	};
+}
